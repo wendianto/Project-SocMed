@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1448377785 source:d:\belajar c++\komentator\main.cpp
+	"tubes.h"
+
+1448374694 source:d:\belajar c++\komentator\tubes.cpp
+	"tubes.h"
+
+1448377733 d:\belajar c++\komentator\tubes.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1448453755 source:c:\users\naufal dzaky\desktop\komentatorrevisi3\komentator\main.cpp
+	"tubes.h"
+
+1448377733 c:\users\naufal dzaky\desktop\komentatorrevisi3\komentator\tubes.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1448452631 source:c:\users\naufal dzaky\desktop\komentatorrevisi3\komentator\tubes.cpp
+	"tubes.h"
+
+1448756203 source:c:\users\notonogoro\desktop\komentatorrevisi3\komentator\main.cpp
+	"tubes.h"
+
+1448756204 c:\users\notonogoro\desktop\komentatorrevisi3\komentator\tubes.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1448756843 source:c:\users\notonogoro\desktop\komentatorrevisi3\komentator\tubes.cpp
+	"tubes.h"
+
+1448759163 source:c:\users\naufal dzaky\desktop\komentatorfinish\komentator\tubes.cpp
+	"tubes.h"
+
+1448756204 c:\users\naufal dzaky\desktop\komentatorfinish\komentator\tubes.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1448764188 source:c:\users\naufal dzaky\desktop\komentatorfinish\komentator\main.cpp
+	"tubes.h"
+
+1448779187 source:c:\users\notonogoro\desktop\komentatorfinishfix\komentator\main.cpp
+	"tubes.h"
+
+1448756204 c:\users\notonogoro\desktop\komentatorfinishfix\komentator\tubes.h
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1448779353 source:c:\users\notonogoro\desktop\komentatorfinishfix\komentator\tubes.cpp
+	"tubes.h"
+
